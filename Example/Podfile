@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'EZPageView_Example' do
+  pod 'EZPageView', :path => '../'
+
+  target 'EZPageView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
