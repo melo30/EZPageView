@@ -1,0 +1,6 @@
+framework module Pods_EZPageView_Tests {
+  umbrella header "Pods-EZPageView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
