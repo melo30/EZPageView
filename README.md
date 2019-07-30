@@ -9,6 +9,8 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+本来是为公司业务写的一个业务组件，写的比较很简单，定制性也不高，有空再慢慢扩展吧。。暂时先放到github上面来方便以后用。
+
 ## Requirements
 
 ## Installation
